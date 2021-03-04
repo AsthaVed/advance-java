@@ -1,0 +1,9 @@
+import java.awt.*;
+class Astha extends Frame{
+Astha(){
+setSize(300,300);
+setVisible(true);
+}
+public static void main(String args[]){
+Astha a1=new Astha();
+}
